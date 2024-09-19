@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CSI 4106 Introduction to Artificial Intelligence
 
 ## Assignment 1: Data Preparation
@@ -38,3 +39,6 @@ In your notebook, you can access and read the data directly from this GitHub rep
 
 
 
+=======
+# AIAssignment
+>>>>>>> b5de0171ff26f942c612e224bce14bdae6a5bb98
